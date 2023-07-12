@@ -24,4 +24,3 @@ for index, todo in enumerate(todos):
         del st.session_state[todo]
         st.experimental_rerun()
 
-
